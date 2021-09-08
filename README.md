@@ -4,6 +4,15 @@
 
 ### Media Pipe Initialization
 
+**INSTALLATION REQUIREMENTS**
+- `Visual C++ Compiler Redistributable 2019`
+- `Windows10 SDK`
+- `Python 3.7`
+- `Bazel`
+- `GoLang 1.11 or greater for Bazelisk`
+- `OpenCV 3.4.10`
+- `MSYS2`
+
 1. [Bazel and OpenCV configurations for MediaPipe](https://google.github.io/mediapipe/getting_started/install.html)
 
    1. Install MSYS2 and edit `%PATH%` environment variable
